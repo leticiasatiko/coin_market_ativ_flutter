@@ -1,3 +1,3 @@
-# api_cripto
+# Atividade Coin Makert API
 
-A new Flutter project.
+## Como rodar?
